@@ -1,0 +1,162 @@
+[
+  {
+    "id_cliente": 1,
+    "nombre": "Ana Gómez",
+    "email": "ana.gómez@correo.com",
+    "ciudad": "Buenos Aires",
+    "edad": 25,
+    "fecha_registro": "2023-05-27"
+  },
+  {
+    "id_cliente": 2,
+    "nombre": "Luis Pérez",
+    "email": "luis.pérez@correo.com",
+    "ciudad": "Ushuaia",
+    "edad": 33,
+    "fecha_registro": "2023-10-16"
+  },
+  {
+    "id_cliente": 3,
+    "nombre": "Marta Ruiz",
+    "email": "marta.ruiz@correo.com",
+    "ciudad": "Mendoza",
+    "edad": 40,
+    "fecha_registro": "2022-05-23"
+  },
+  {
+    "id_cliente": 4,
+    "nombre": "Carlos Díaz",
+    "email": "carlos.díaz@correo.com",
+    "ciudad": "Mendoza",
+    "edad": 51,
+    "fecha_registro": "2024-03-10"
+  },
+  {
+    "id_cliente": 5,
+    "nombre": "Sofía López",
+    "email": "sofía.lópez@correo.com",
+    "ciudad": "Río Grande",
+    "edad": 39,
+    "fecha_registro": "2022-02-20"
+  },
+  {
+    "id_cliente": 6,
+    "nombre": "Pedro Martín",
+    "email": "pedro.martín@correo.com",
+    "ciudad": "Buenos Aires",
+    "edad": 39,
+    "fecha_registro": "2022-11-10"
+  },
+  {
+    "id_cliente": 7,
+    "nombre": "Lucía Fernández",
+    "email": "lucía.fernández@correo.com",
+    "ciudad": "Córdoba",
+    "edad": 39,
+    "fecha_registro": "2022-11-01"
+  },
+  {
+    "id_cliente": 8,
+    "nombre": "Javier Torres",
+    "email": "javier.torres@correo.com",
+    "ciudad": "Mendoza",
+    "edad": 59,
+    "fecha_registro": "2024-02-22"
+  },
+  {
+    "id_cliente": 9,
+    "nombre": "Elena Castro",
+    "email": "elena.castro@correo.com",
+    "ciudad": "Ushuaia",
+    "edad": 60,
+    "fecha_registro": "2023-03-20"
+  },
+  {
+    "id_cliente": 10,
+    "nombre": "Diego Romero",
+    "email": "diego.romero@correo.com",
+    "ciudad": "La Plata",
+    "edad": 50,
+    "fecha_registro": "2022-09-21"
+  },
+  {
+    "id_cliente": 11,
+    "nombre": "Valentina Suárez",
+    "email": "valentina.suárez@correo.com",
+    "ciudad": "La Plata",
+    "edad": 61,
+    "fecha_registro": "2023-09-12"
+  },
+  {
+    "id_cliente": 12,
+    "nombre": "Mateo Alonso",
+    "email": "mateo.alonso@correo.com",
+    "ciudad": "La Plata",
+    "edad": 56,
+    "fecha_registro": "2022-07-15"
+  },
+  {
+    "id_cliente": 13,
+    "nombre": "Camila Ortiz",
+    "email": "camila.ortiz@correo.com",
+    "ciudad": "Ushuaia",
+    "edad": 62,
+    "fecha_registro": "2022-12-16"
+  },
+  {
+    "id_cliente": 14,
+    "nombre": "Nicolás Vega",
+    "email": "nicolás.vega@correo.com",
+    "ciudad": "Río Grande",
+    "edad": 52,
+    "fecha_registro": "2023-10-18"
+  },
+  {
+    "id_cliente": 15,
+    "nombre": "Florencia Ríos",
+    "email": "florencia.ríos@correo.com",
+    "ciudad": "La Plata",
+    "edad": 59,
+    "fecha_registro": "2023-11-01"
+  },
+  {
+    "id_cliente": 16,
+    "nombre": "Tomás Molina",
+    "email": "tomás.molina@correo.com",
+    "ciudad": "Rosario",
+    "edad": 34,
+    "fecha_registro": "2022-04-30"
+  },
+  {
+    "id_cliente": 17,
+    "nombre": "Martina Herrera",
+    "email": "martina.herrera@correo.com",
+    "ciudad": "Río Grande",
+    "edad": 36,
+    "fecha_registro": "2023-08-27"
+  },
+  {
+    "id_cliente": 18,
+    "nombre": "Agustín Silva",
+    "email": "agustín.silva@correo.com",
+    "ciudad": "Córdoba",
+    "edad": 43,
+    "fecha_registro": "2024-01-11"
+  },
+  {
+    "id_cliente": 19,
+    "nombre": "Julieta Navarro",
+    "email": "julieta.navarro@correo.com",
+    "ciudad": "Córdoba",
+    "edad": 40,
+    "fecha_registro": "2022-05-07"
+  },
+  {
+    "id_cliente": 20,
+    "nombre": "Bruno Acosta",
+    "email": "bruno.acosta@correo.com",
+    "ciudad": "Buenos Aires",
+    "edad": 29,
+    "fecha_registro": "2023-10-03"
+  }
+]
